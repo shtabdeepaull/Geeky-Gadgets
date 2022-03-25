@@ -1,6 +1,7 @@
 .header h4{
     font-size: 40px;
     color: rgb(175, 121, 54);
+    text-align: center;
 }
 .header h4:hover{
     color: black;
