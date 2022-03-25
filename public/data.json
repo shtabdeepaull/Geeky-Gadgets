@@ -1,74 +1,74 @@
 [
     {
       "_id": 1,
-      "picture": "http://placehold.it/32x32",
-      "price": 967,
-      "name": "Austin Watson"
+      "picture": "https://rightsilicon.com/wp-content/uploads/2021/02/rasberry-pi-4-2gb.jpg",
+      "price": 4000,
+      "name": "Raspberry pi 4"
     },
     {
       "_id": 2,
-      "picture": "http://placehold.it/32x32",
-      "price": 533,
-      "name": "Glenda Hicks"
+      "picture": "https://cdn.littlebird.com.au/images/files/000/055/807/large/SF-DEV-11224.jpg?1535770232&fbclid=IwAR2OuCUFoykijQCBVjP0Dck5ec1Qjsg1mlS5f4SRN20l1Dopd9JxpwE-GjQ",
+      "price": 2200,
+      "name": "Arduino"
     },
     {
       "_id":3,
-      "picture": "http://placehold.it/32x32",
-      "price": 775,
-      "name": "Lynda Ochoa"
+      "picture": "http://images.linnlive.com/e9d17265bce8102dfe3ed3c77033056a/dca9dafb-4724-4f2e-baa4-4e4a43681258.jpg?fbclid=IwAR3CyQIyTmmVTnUhpC1pP5lpUQhmDM_llJY9gxxb-NPmAHcKABhC17fjrFA",
+      "price": 80,
+      "name": "Breadboard"
     },
     {
       "_id":4,
-      "picture": "http://placehold.it/32x32",
-      "price": 32,
-      "name": "Alice Chambers"
+      "picture": "https://foreignpolicyi.org/wp-content/uploads/2019/07/servo.jpg?fbclid=IwAR3FtCgiNqDfBHpZdnyMeRjOy4nuIrBEAnT8SA4rnrSdHFxRqrXU66B6YJc",
+      "price": 550,
+      "name": "Servo Motor"
     },
     {
       "_id":5,
-      "picture": "http://placehold.it/32x32",
-      "price": 482,
-      "name": "Amy Bonner"
+      "picture": "https://modernelectronics.com.pk/wp-content/uploads/2017/09/MQ-6-font-b-LPG-b-font-font-b-Gas-b-font-font-b-Sensor-b.jpg?fbclid=IwAR2d2XPkRKapkqCHSlz0ypIGEiT7EIjbF2WWDrcDQMmjSTq3_PhO9XAClsY",
+      "price":350,
+      "name": "LPG Sensor"
     },
     {
       "_id": 6,
-      "picture": "http://placehold.it/32x32",
-      "price": 991,
-      "name": "Clarice Mayer"
+      "picture": "https://www.electronics-lab.com/wp-content/uploads/2019/05/IMG_47397.jpg?fbclid=IwAR1zoQKral0zwKjQ4EwI_9RSqWqziDNy_aomDeSeJNtR0jF3VsLYZof8zTk",
+      "price": 350,
+      "name": "Proximity Sensor"
     },
     {
         "_id":7,
-        "picture": "http://placehold.it/32x32",
-        "price": 482,
-        "name": "Amy Bonner"
+        "picture": "https://www.makerfabs.com/image/cache/makerfabs/40%20pin%20male%20-%20female%20splittable%20jumper%20wire%20-%2020cm/40%20pin%20male%20-%20female%20splittable%20jumper%20wire%20-%2020cm-4-1000x750.jpg?fbclid=IwAR2LnoiJwq2hcA473NRuICsVEO5ine_k9ujA3g145JJYYGZ09LctypiRsM8",
+        "price": 60,
+        "name": "Male to Female Kit"
       },
       {
         "_id":8,
-        "picture": "http://placehold.it/32x32",
-        "price": 482,
-        "name": "Amy Bonner"
+        "picture": "http://www.thesietch.org/projects/Hydrogenmaker/images/battery2.jpg?fbclid=IwAR1TR2hHUC8HBu7KcFgatdFGKpCAbJ42fmaMkoswoKI4sJwAwETQsbgFe8o",
+        "price": 60,
+        "name": "battery"
       },
       {
         "_id":9,
-        "picture": "http://placehold.it/32x32",
-        "price": 482,
-        "name": "Amy Bonner"
+        "picture": "https://quickshop.com.au/wp-content/uploads/2020/05/Q1134A.jpg?fbclid=IwAR1euuz9iQJl2751r2vBmroP8leI7iRzgPmME1GWsgZb_1IbjiFtFau2qY8",
+        "price": 1300,
+        "name": "Digital Maltimeter"
       },
       {
         "_id":10,
-        "picture": "http://placehold.it/32x32",
-        "price": 482,
-        "name": "Amy Bonner"
+        "picture": "https://sc02.alicdn.com/kf/HTB1D4EvaLvsK1RjSspdq6AZepXaT/225137969/HTB1D4EvaLvsK1RjSspdq6AZepXaT.jpg?fbclid=IwAR3QmWtRir1lMyK6_Eh5HZpapFp_LAwe8raZxylsv9SocsQs86DIVbhEQGc",
+        "price": 5,
+        "name": "LED"
       },
       {
         "_id":11,
-        "picture": "http://placehold.it/32x32",
-        "price": 482,
-        "name": "Amy Bonner"
+        "picture": "https://n3.sdlcdn.com/imgs/j/k/o/Arduino-Compatible-HC-SR04-Ultrasonic-SDL504895381-1-30c22.jpeg?fbclid=IwAR3FH5wCTjLYh5Vs3n2CtHueHOmeGWN2xy_S41CIZQv5QKUt7hmxMG6n9J4",
+        "price": 150,
+        "name": "SONAR"
       },
       {
         "_id":12,
-        "picture": "http://placehold.it/32x32",
-        "price": 482,
-        "name": "Amy Bonner"
+        "picture": "https://www.flyrobo.in/image/cache/catalog/Resistor/330k-ohm-resistor-1000x1000.jpg?fbclid=IwAR2Ql4dsYWM8uBt9kw1kVDY9N4XUOvTLcj0_NKTMMbYup3_JvE2YAxpTGLE",
+        "price": 2,
+        "name": "Resistor"
       }
   ]
